@@ -31,25 +31,26 @@ ___
 - IP와 거의 동일하다. port, checksum 만 추가됨.
 - 어플리케이션에서 추가적으로 작업을 하여 보완할 수 있다.
     - 떠오르는 대세
-    - 최적화가 가능하다
-    - HTTP 3 에서는 UDP를 사용
+    - 최적화가 가능하다 (백지와 같은 느낌)
+    - HTTP/3 에서는 UDP를 사용
 ___
 ## Port
 0 ~ 65535 까지 지정이 가능   
 0 ~ 1023 은 이미 많이 사용되어지고 있는 Port이므로 피하는 것이 좋다.
 ___
-## DNS
+## DNS (Domain Name System)
 IP 는 기억하기 어렵다.  
 IP 는 변동 될 수 있다.  
 도메인을 활용하여 IP를 대체함
 ___
 ## URI (Uniform Resource Identifier)
-Uniform : 리소스를 식별하는 통일된 방식 
-Resource : 자원 
+Uniform : 리소스를 식별하는 통일된 방식    
+Resource : 자원    
 Identifier : 구분에 필요한 정보
 ### URI : URL, URN 을 포함하는 큰 개념
 ### URL : 자원의 위치 정보.
 ### URN : 말 그대로의 자원의 이름. 
+통상적으로 URI = URL 로 많이 쓴다.
 ___
 ## Scheme
 scheme://[userinfo@]host[:port][/path][?query][#fragment]   
@@ -59,4 +60,4 @@ scheme://[userinfo@]host[:port][/path][?query][#fragment]
     - https 는 http에 강력한 보안이 추가됨 http secure
 - path : 리소스 경로, 계층적 구조
 - query : key=value 형태. ?로 시작. &로 추가 가능. query parameter 또는 query String으로 불림
-- fragment : html 내부 북마크. 서버에 전송되지 않음. 
+- fragment : html 내부 북마크. 서버에 전송되지 않음.
