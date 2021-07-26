@@ -4,6 +4,7 @@ Today I Learned
 ## 웹 기본
 1. [IP](Web-basic/IP.md)
 2. [HTTP](Web-basic/HTTP.md)
+3. [HTTP 메서드] (Web-basic/http-method.md)
 
 ## Spring-MVC 기본
 1. [HTTP, SSR, CSR](Spring-MVC/http-ssr-csr.md)
