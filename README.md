@@ -29,3 +29,4 @@ Today I Learned
 ## JPA
 - [JPA 사용이유](records/20210923.md)
 - [JPA와 기본생성자](records/20210925.md)
+- [영속성 컨텍스트](records/20211002.md)
