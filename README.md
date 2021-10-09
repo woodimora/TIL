@@ -19,7 +19,7 @@ Today I Learned
 - [builder](records/20210928.md)
 - [Mock](records/20210929.md)
 - [JUnit](records/20211001.md)
-
+- [Test Code, Spring Data JPA, AOP](records/20211009.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 
