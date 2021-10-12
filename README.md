@@ -36,3 +36,4 @@ Today I Learned
 ## Application
 - [프로필 사진 업로드](records/20211006.md)
 - [Exception, Cascade](records/20211007.md)
+- [팔로잉 JPA, INDEX](records/20211012.md)
