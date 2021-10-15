@@ -22,6 +22,7 @@ Today I Learned
 - [Test Code, Spring Data JPA, AOP](records/20211009.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
+- [Immutable, Mutable](records/20211015.md)
 
 ## Git
 - [git config 설정](records/20210922.md)
