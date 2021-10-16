@@ -39,3 +39,6 @@ Today I Learned
 - [Exception, Cascade](records/20211007.md)
 - [팔로잉 JPA, INDEX](records/20211012.md)
 - [CORS](records/20211014.md)
+
+## 기타
+- [MVP](records/20211016.md)
