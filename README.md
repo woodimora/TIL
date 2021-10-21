@@ -40,6 +40,7 @@ Today I Learned
 - [팔로잉 JPA, INDEX](records/20211012.md)
 - [CORS](records/20211014.md)
 - [response 객체에 왜 Getter가 필요할까??](records/20211019.md)
+- [테스트코드 작성방법](records/20211021.md)
 
 ## 기타
 - [MVP](records/20211016.md)
