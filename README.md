@@ -42,6 +42,7 @@ Today I Learned
 - [response 객체에 왜 Getter가 필요할까??](records/20211019.md)
 - [테스트코드 작성방법](records/20211021.md)
 - [OpenAPI, Log 파일 저장](records/20211022.md)
+- [Lombok 사용법](records/20211024.md)
 
 ## 기타
 - [MVP](records/20211016.md)
