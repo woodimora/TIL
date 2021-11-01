@@ -43,6 +43,7 @@ Today I Learned
 - [테스트코드 작성방법](records/20211021.md)
 - [OpenAPI, Log 파일 저장](records/20211022.md)
 - [Lombok 사용법](records/20211024.md)
+- [Transactional Annotation 사용시 주의사항](records/20211101.md)
 
 ## 기타
 - [MVP](records/20211016.md)
