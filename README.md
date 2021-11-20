@@ -10,6 +10,7 @@ Today I Learned
 - [캐시](Web-basic/cache.md)
 - [XSS, CSRF](records/20210927.md)
 - [인증, 인가](records/20210930.md)
+- [OSI 7계층](records/20211120.md)
 
 ## Spring
 - [HTTP, SSR, CSR](Spring-MVC/http-ssr-csr.md)
