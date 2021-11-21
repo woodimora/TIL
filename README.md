@@ -50,6 +50,7 @@ Today I Learned
 ## 기타
 - [MVP](records/20211016.md)
 - [Sort](records/20211107.md)
+- [객체 지향 생활 체조 원칙](records/20211121.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
