@@ -46,6 +46,7 @@ Today I Learned
 - [Lombok 사용법](records/20211024.md)
 - [Transactional Annotation 사용시 주의사항](records/20211101.md)
 - [Spring AOP 기능을 이용해서 Controller 동작 속도 측정하기](records/20211114.md)
+- [querydsl를 사용하면서 생긴 문제들](records/20211122.md)
 
 ## 기타
 - [MVP](records/20211016.md)
