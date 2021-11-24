@@ -58,4 +58,4 @@ Today I Learned
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
 
 ## 데이터베이스
--[데이터베이스 정규화](records/20211124.md)
+- [데이터베이스 정규화](records/20211124.md)
