@@ -47,6 +47,7 @@ Today I Learned
 - [Transactional Annotation 사용시 주의사항](records/20211101.md)
 - [Spring AOP 기능을 이용해서 Controller 동작 속도 측정하기](records/20211114.md)
 - [querydsl를 사용하면서 생긴 문제들](records/20211122.md)
+- [Jsoup 으로 크롤링](records/20211123.md)
 
 ## 기타
 - [MVP](records/20211016.md)
@@ -55,3 +56,6 @@ Today I Learned
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
+
+## 데이터베이스
+-[데이터베이스 정규화](records/20211124.md)
