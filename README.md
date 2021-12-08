@@ -59,6 +59,7 @@ Today I Learned
 - [Nginx](records/20211205.md)
 - [docker](records/20211206.md)
 - [postgreSQL](records/20211207.md)
+- [MVCC](records/20211208.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
