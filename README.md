@@ -60,6 +60,7 @@ Today I Learned
 - [docker](records/20211206.md)
 - [postgreSQL](records/20211207.md)
 - [MVCC](records/20211208.md)
+- [점근표기법,시간,공간복잡도](records/20211212.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
