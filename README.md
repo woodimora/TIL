@@ -22,6 +22,7 @@ Today I Learned
 - [JUnit](records/20211001.md)
 - [Test Code, Spring Data JPA, AOP](records/20211009.md)
 - [ehcache](records/20211202.md)
+- [Filter, Interceptor, AOP](records/20211219.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
@@ -54,7 +55,7 @@ Today I Learned
 
 ## 기타
 - [MVP](records/20211016.md)
-- [Sort](records/20211107.md)
+- [Quick Sort, Merge Sort](records/20211107.md)
 - [객체 지향 생활 체조 원칙](records/20211121.md)
 - [MSA란](records/20211201.md)
 - [Nginx](records/20211205.md)
@@ -64,6 +65,7 @@ Today I Learned
 - [점근표기법,시간,공간복잡도](records/20211212.md)
 - [SSO](records/20211215.md)
 - [OAuth](records/20211216.md)
+- [Heap Sort](records/20211219-2.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
