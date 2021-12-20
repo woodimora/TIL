@@ -26,6 +26,7 @@ Today I Learned
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
+- [JVM](records/20211220.md)
 
 ## Git
 - [git config 설정](records/20210922.md)
