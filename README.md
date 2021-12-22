@@ -23,6 +23,7 @@ Today I Learned
 - [Test Code, Spring Data JPA, AOP](records/20211009.md)
 - [ehcache](records/20211202.md)
 - [Filter, Interceptor, AOP](records/20211219.md)
+- [DI, IOC, Bean](https://woodimora.tistory.com/5)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
