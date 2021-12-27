@@ -31,6 +31,7 @@ Today I Learned
 - [Immutable, Mutable](records/20211015.md)
 - [JVM](records/20211220.md)
 - [GC](records/20211226.md)
+- [Serialize](records/20211227.md)
 
 ## Git
 - [git config 설정](records/20210922.md)
