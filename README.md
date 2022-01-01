@@ -60,6 +60,7 @@ Today I Learned
 - [Jsoup 으로 크롤링](records/20211123.md)
 - [Querydsl 다중 fetch, exists](records/20211129.md)
 - [AWS S3에 이미지 업로드](records/20211218.md)
+- [Resource 접근 성능 향상](records/2022/20220101.md)
 
 ## 기타
 - [MVP](records/20211016.md)
