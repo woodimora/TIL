@@ -33,6 +33,7 @@ Today I Learned
 - [GC](records/20211226.md)
 - [Serialize](records/20211227.md)
 - [Interface, Abstract Class](records/20211228.md)
+- [Reflection](records/2022/20220102.md)
 
 ## Git
 - [git config 설정](records/20210922.md)
