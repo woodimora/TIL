@@ -26,6 +26,7 @@ Today I Learned
 - [DI, IOC, Bean](https://woodimora.tistory.com/5)
 - [Transaction](records/20211223.md)
 - [PSA](records/20211225.md)
+- [Connection pool](records/2022/20220103.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
