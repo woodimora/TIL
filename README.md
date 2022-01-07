@@ -35,6 +35,7 @@ Today I Learned
 - [Serialize](records/20211227.md)
 - [Interface, Abstract Class](records/20211228.md)
 - [Reflection](records/2022/20220102.md)
+- [JAVA, C](records/2022/20220107.md)
 
 ## Git
 - [git config 설정](records/20210922.md)
