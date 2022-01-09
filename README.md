@@ -27,6 +27,7 @@ Today I Learned
 - [Transaction](records/20211223.md)
 - [PSA](records/20211225.md)
 - [Connection pool](records/2022/20220103.md)
+- [프록시 패턴](records/2022/20220109.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
