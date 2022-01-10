@@ -48,6 +48,7 @@ Today I Learned
 - [ORM, SQL, MVC](https://woodimora.tistory.com/6)
 - [POJO, 싱글톤 패턴, JPA](https://woodimora.tistory.com/7)
 - [OSIV](records/20211224.md)
+- [벌크 연산](records/2022/20220110.md)
 
 ## Application
 - [프로필 사진 업로드](records/20211006.md)
