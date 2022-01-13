@@ -81,6 +81,7 @@ Today I Learned
 - [OAuth](records/20211216.md)
 - [Heap Sort](records/20211219-2.md)
 - [프로세스, 스레드](records/2022/20220104.md)
+- [Context Switching](records/2022/20220113.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
