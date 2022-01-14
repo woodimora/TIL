@@ -26,8 +26,6 @@ Today I Learned
 - [DI, IOC, Bean](https://woodimora.tistory.com/5)
 - [Transaction](records/20211223.md)
 - [PSA](records/20211225.md)
-- [Connection pool](records/2022/20220103.md)
-- [프록시 패턴](records/2022/20220109.md)
 ## 자바
 - [제네릭스,람다](records/20210920.md)
 - [Immutable, Mutable](records/20211015.md)
@@ -82,6 +80,9 @@ Today I Learned
 - [Heap Sort](records/20211219-2.md)
 - [프로세스, 스레드](records/2022/20220104.md)
 - [Context Switching](records/2022/20220113.md)
+- [Connection pool](records/2022/20220103.md)
+- [프록시 패턴](records/2022/20220109.md)
+- [Deadlock](records/2022/20220114.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
