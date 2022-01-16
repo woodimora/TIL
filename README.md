@@ -83,6 +83,7 @@ Today I Learned
 - [Connection pool](records/2022/20220103.md)
 - [프록시 패턴](records/2022/20220109.md)
 - [Deadlock](records/2022/20220114.md)
+- [함수형 객체지향](records/2022/20220116.md)
 
 ## Test Code
 - [@Before, @BeforeClass, @BeforeEach, @BeforeAll](records/20211118.md)
